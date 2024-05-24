@@ -1,0 +1,14 @@
+.movies-container {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.movies{
+    display: flex;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+}
+
